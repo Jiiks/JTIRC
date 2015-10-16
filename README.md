@@ -1,0 +1,2 @@
+# JTIRC
+Twitch irc client
